@@ -1,0 +1,5 @@
+,index,accuracy,precision,recall,f1,kapppa,set,modelo
+0,0,0.9473684210526316,1.0,0.9,0.9473684210526316,0.8950276243093923,test,Regresión logistica Esta
+1,1,1.0,1.0,1.0,1.0,1.0,train,Regresión logistica Esta
+2,0,0.9473684210526315,1.0,0.9,0.9473684210526316,0.8950276243093923,test,Decission Tree I
+3,1,1.0,1.0,1.0,1.0,1.0,train,Decission Tree I
